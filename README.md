@@ -42,3 +42,5 @@ Used kmk for firmware. Rotary encoder increases/decreases the volume. Currently 
 9 x Blank DSA keycaps
 
 1 x SK6812 MINI-E LED
+
+If possible a black case
